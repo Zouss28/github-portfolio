@@ -106,7 +106,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "University of the people",
       logo: require("./assets/images/uopeople.jpeg"),
       subHeader: "Bachelor in Computer Science",
       duration: "September 2020 - April 2024",
