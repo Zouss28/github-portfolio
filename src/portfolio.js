@@ -28,7 +28,7 @@ const greeting = {
     "I'm committed to staying up-to-date with the latest trends and technologies in the tech world. I'm always open to new challenges and opportunities for growth."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1_zr247S1jFju4seyPDLUzYnmerM0lcGz/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1YI4FaU9x6dEa5C9b82cR8hx2ZTXRa9Y-/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
