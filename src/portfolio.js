@@ -23,7 +23,7 @@ const greeting = {
   username: "Alain Iyakaremye",
   title: "Hi all, I'm Alain",
   subTitle: emoji(
-    "I'm a passionate self-taught Django full-stack developer and a dedicated computer science student. I'm on a continuous journey of learning and creating, and I'm excited to turn my ideas into functional and elegant web applications.\n"+
+    "I'm a passionate Django full-stack developer and a dedicated computer science . I'm on a continuous journey of learning and creating, and I'm excited to turn my ideas into functional and elegant web applications.\n"+
     "I have honed my skills in Python, Django, JavaScript, HTML, CSS, Bootstrap, and database management. I've also developed a variety of web applications, including a Twitter clone, a weather app, a URL shortener, a LinkTree-inspired landing page, and an e-commerce dropshipping website.\n"+
     "I'm committed to staying up-to-date with the latest trends and technologies in the tech world. I'm always open to new challenges and opportunities for growth."
   ),
@@ -182,28 +182,28 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME OF MY BIG PROJECTS I CREATED",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Twitter.png"),
+      projectName: "Tweetme",
+      projectDesc: "A simple Twitter clone built using the Django web framework. It provides a basic platform for users to post tweets, follow other users, and engage in a simplified version of the Twitter experience.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://tweiter-e7c6d2796ca5.herokuapp.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/linktree.png"),
+      projectName: "Linktree clone",
+      projectDesc: "This Linktree is a tool that allows users to create a single link that directs visitors to a personalized landing page with multiple links to their social media profiles, websites, or any other online presence.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://bigtree-6ed1eae74740.herokuapp.com/"
         }
       ]
     }
