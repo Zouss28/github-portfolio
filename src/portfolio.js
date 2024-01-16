@@ -23,12 +23,12 @@ const greeting = {
   username: "Alain Iyakaremye",
   title: "Hi all, I'm Alain",
   subTitle: emoji(
-    "I'm a passionate Django full-stack developer and a dedicated computer science . I'm on a continuous journey of learning and creating, and I'm excited to turn my ideas into functional and elegant web applications.\n"+
-    "I have honed my skills in Python, Django, JavaScript, HTML, CSS, Bootstrap, and database management. I've also developed a variety of web applications, including a Twitter clone, a weather app, a URL shortener, a LinkTree-inspired landing page, and an e-commerce dropshipping website.\n"+
+    "I'm a passionate Django full-stack developer on a continuous journey of learning and creating, and I'm excited to turn my ideas into functional and elegant web applications.\n"+
+    "I have honed my skills in Python, Django, JavaScript, HTML, CSS, Bootstrap, and database management."+
     "I'm committed to staying up-to-date with the latest trends and technologies in the tech world. I'm always open to new challenges and opportunities for growth."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1YI4FaU9x6dEa5C9b82cR8hx2ZTXRa9Y-/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ptoLAFP8iRoOWuETn8bqaRZPkNgnT49l/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
