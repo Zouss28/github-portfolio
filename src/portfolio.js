@@ -28,7 +28,7 @@ const greeting = {
     "I'm committed to staying up-to-date with the latest trends and technologies in the tech world. I'm always open to new challenges and opportunities for growth."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ptoLAFP8iRoOWuETn8bqaRZPkNgnT49l/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1-X_ZY5yczNTRaMSWMM0yaR2FR6HmTPdS/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -123,15 +123,15 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "60%" //Insert relative proficiency in percentage
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
