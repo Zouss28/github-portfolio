@@ -109,7 +109,7 @@ const educationInfo = {
       schoolName: "University of the people",
       logo: require("./assets/images/uopeople.jpeg"),
       subHeader: "Bachelor in Computer Science",
-      duration: "September 2020 - April 2024",
+      duration: "January 2021 - November 2024",
       desc: "Ranked top 10% in a computer science program known for its rigor and innovation. Took courses in software engineering, web security, operating systems, and other cutting-edge topics.",
     },
     
