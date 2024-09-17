@@ -185,7 +185,7 @@ const bigProjects = {
   subtitle: "SOME OF MY BIG PROJECTS I CREATED",
   projects: [
     {
-      image: require("./assets/images/Twitter.png"),
+      image: require("./assets/images/stream.jpeg"),
       projectName: "Tweetme",
       projectDesc: "A simple Twitter clone built using the Django web framework. It provides a basic platform for users to post tweets, follow other users, and engage in a simplified version of the Twitter experience.",
       footerLink: [
@@ -203,7 +203,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://bigtree-6ed1eae74740.herokuapp.com/"
+          url: "http://nobelstream.tech:8081/"
         }
       ]
     }
