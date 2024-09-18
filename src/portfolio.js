@@ -186,7 +186,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/stream.jpeg"),
-      projectName: "Tweetme",
+      projectName: "Afroshowz",
       projectDesc: "A streaming platform built using the Django web framework. It allows users to watch TV shows, movies, and other content without the need for registration. The platform offers a simple and intuitive interface, providing a seamless viewing experience for users looking to access a variety of media content easily.",
       footerLink: [
         {
