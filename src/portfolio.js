@@ -187,7 +187,7 @@ const bigProjects = {
     {
       image: require("./assets/images/stream.jpeg"),
       projectName: "Tweetme",
-      projectDesc: "A simple Twitter clone built using the Django web framework. It provides a basic platform for users to post tweets, follow other users, and engage in a simplified version of the Twitter experience.",
+      projectDesc: "A streaming platform built using the Django web framework. It allows users to watch TV shows, movies, and other content without the need for registration. The platform offers a simple and intuitive interface, providing a seamless viewing experience for users looking to access a variety of media content easily.",
       footerLink: [
         {
           name: "Visit Website",
